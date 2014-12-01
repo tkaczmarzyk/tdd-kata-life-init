@@ -1,0 +1,6 @@
+- przestrzen jest nieskonczona
+- zywa komorka z 2 lub 3 sasiadami przechodzi do nowej generacji
+- zywa komorka z mniej niz 2 sasiadow umiera z samotnosci
+- zywa komorka z wiecej niz 3 sasiadow umiera z przeludnienia
+- martwa komorka z dokladnie 3 sasiadami ozywa w nowej generacji
+

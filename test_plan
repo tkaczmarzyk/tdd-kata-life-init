@@ -1,0 +1,28 @@
+1. all dead produce all dead
+..  ..
+..  ..
+
+2. lonely cell dies
+.*.  ...
+
+3. overcrowded cell dies
+.*.
+***   *.*  dla okna (0,1) (2,1)
+.*.
+
+4. cells with 3 neighbours survive
+**   **
+**   **
+
+5. cell with 2 neighbours survive
+***   .*.   dla okna (0,0) (2,0)
+
+6. dead cell with exactly 3 neighbours becomes alive
+**   **
+*.   **
+
+7. new cells are spawned even outside the original viewport
+       .*.
+***    .*.   dla okna (0,-1) (2,1)
+       .*.
+
